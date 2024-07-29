@@ -1,16 +1,8 @@
 # wather
 
-A new Flutter project.
+<p>
+  <img src="https://github.com/user-attachments/assets/8365f08d-610a-4d60-a475-d00fb232fef9"width="350" height="1000"/>
+   <img src="https://github.com/user-attachments/assets/f4e65745-27d0-4ed7-92a6-cd78e8cbfbe8"width="350" height="1000"/>
+  
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
